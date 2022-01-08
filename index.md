@@ -13,17 +13,17 @@ We have arrived in 2021, although Melawai Street has passed its golden age now, 
 
 # Roadmap
 
-## December 2021
-  - [x] **Week 1**  Launch 'Jakarta-Matsuyama: Poems'
-  - [ ] **Week 2**  Launch 'D.O.G.G.E.R.E.L: A Dog's POV'
-  - [ ] **Week 3**  Launch 'CHRISTMAS: B-Side'
-  - [ ] **Week 4**  Launch 'Cat and the City'
+## 1st Phase
+  - [x] Launch 'Jakarta-Matsuyama: Poems'
+  - [ ] Launch 'Valentine Playlist'
+  - [ ] Launch 'D.O.G.G.E.R.E.L: A Dog's POV'
+  - [ ] Launch 'Cat and the City'
 
-## January 2022
-  - [ ] **Week 1**  Launch 'x0x2: A collection of quiet, loose poem for people who live alone'
-  - [ ] **Week 2**  Launch 'Shapelesness'
-  - [ ] **Week 3**  Launch 'The Galactic Gardener'
-  - [ ] **Week 4**  Launch 'It's so very lonely, you're 2000 light years from home'
+## 2nd Phase
+  - [ ] Launch 'x0x2: A collection of quiet, loose poem for people who live alone'
+  - [ ] Launch 'Shapelesness'
+  - [ ] Launch 'The Galactic Gardener'
+  - [ ] Launch 'It's so very lonely, you're 2000 light years from home'
 
 The title and theme of the poem may change depending on the situation.
 You can also recommend themes, hit us on [TWITTER](https://twitter.com/melawai_arc)
