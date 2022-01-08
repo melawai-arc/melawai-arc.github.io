@@ -1,6 +1,8 @@
 # Melawai Arcology
 
-**Melawai Arcology** is the first crypto-poet’s union in Jakarta, or maybe in Indonesia. When this union was formed, the world had entered the end of 2021 and the pandemic hadn’t yet shown its end. Many of us have lost our jobs. We then gathered in Blok M and started a small slam poem, just to remember our old dream: to become a poet. One of us suggested started making money using an internet platform. Although not everyone agrees, we don't have much choice in a world where poetry isn't considered as an important thing. Hopefully in the future, when someone opens this page, arcology will be established in Blok M and the world will be better.
+**Melawai Arcology** is collaborative project between poets, writers and artists to produce unique NFTs.
+
+We are the first crypto-poet’s union in Jakarta, or maybe in Indonesia. When this union was formed, the world had entered the end of 2021 and the pandemic hadn’t yet shown its end. Many of us have lost our jobs. We then gathered in Blok M and started a small slam poem, just to remember our old dream: to become a poet. One of us suggested started making money using an internet platform. Although not everyone agrees, we don't have much choice in a world where poetry isn't considered as an important thing. Hopefully in the future, when someone opens this page, arcology will be established in Blok M and the world will be better.
 
 ### **Jalan Melawai (Melawai Street)**
 In the '80s, Blok M was a hang-out place for metropolitan teenagers who were also known as ABG (Anak Baru Gede) in Jakarta. At that time, Blok M was the only place that had a modern shopping center or adjacent mall, namely Pasaraya, Blok M Mall, Pasar Mayestik, and Pasar Melawai. Teenagers, most of whom are still in high school, usually hang out in that area from the afternoon to evening.
