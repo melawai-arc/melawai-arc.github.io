@@ -1,6 +1,6 @@
 # Melawai Arcology
 
-**Melawai Arcology** is collaborative project between poets, writers and artists to produce unique NFTs.
+**Melawai Arcology** is collaborative project between poets, writers and artists to produce unique NFTs. We try to show another dimension in viewing literature, art and technology.
 
 We are the first crypto-poet’s union in Jakarta, or maybe in Indonesia. When this union was formed, the world had entered the end of 2021 and the pandemic hadn’t yet shown its end. Many of us have lost our jobs. We then gathered in Blok M and started a small slam poem, just to remember our old dream: to become a poet. One of us suggested started making money using an internet platform. Although not everyone agrees, we don't have much choice in a world where poetry isn't considered as an important thing. Hopefully in the future, when someone opens this page, arcology will be established in Blok M and the world will be better.
 
